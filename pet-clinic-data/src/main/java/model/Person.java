@@ -1,4 +1,4 @@
-package com.hybeecodes.sfgpetclinic.model;
+package model;
 
 public class Person {
 
